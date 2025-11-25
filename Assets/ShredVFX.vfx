@@ -44,9 +44,9 @@ MonoBehaviour:
   uiBounds:
     serializedVersion: 2
     x: -7
-    y: 294
-    width: 746
-    height: 2534
+    y: 295
+    width: 745
+    height: 2537
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1725,7 +1725,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Vector, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"vector":{"x":0.0,"y":0.0,"z":0.5}}'
+      m_SerializableObject: '{"vector":{"x":0.5,"y":0.0,"z":0.0}}'
     m_Space: 1
   m_Property:
     name: A
@@ -1895,7 +1895,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Vector, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"vector":{"x":0.0,"y":5.0,"z":3.0}}'
+      m_SerializableObject: '{"vector":{"x":3.0,"y":5.0,"z":0.0}}'
     m_Space: 1
   m_Property:
     name: B
