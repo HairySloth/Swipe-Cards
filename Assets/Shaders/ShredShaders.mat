@@ -54,7 +54,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _LightDarkscaleEdge: 0.18
-    - _ShredAmount: 0.536
+    - _ShredAmount: 0.629
     - _Shredwidth: 1
     m_Colors: []
   m_BuildTextureStacks: []
