@@ -22,7 +22,7 @@ public class Menu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void Reset()
@@ -58,8 +58,6 @@ public class Menu : MonoBehaviour
         yield return new WaitForSeconds(1.05f);
         effect.Stop();
         Reset();
-
-
     }
 
     public IEnumerator Stamp()
@@ -67,8 +65,6 @@ public class Menu : MonoBehaviour
         animator.Play("Stamp");
         yield return new WaitForSeconds(1.65f);
         Reset();
-
-
     }
 
     public IEnumerator Splash()
@@ -77,7 +73,4 @@ public class Menu : MonoBehaviour
         yield return new WaitForSeconds(1f);
         Destroy(SplashObject);
     }
-
-
-
 }
