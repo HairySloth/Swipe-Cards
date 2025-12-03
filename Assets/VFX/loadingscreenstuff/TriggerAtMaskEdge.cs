@@ -1,41 +1,39 @@
 using UnityEngine;
 
-public class SpriteAnimationLooper : MonoBehaviour
+public class TriggerAtMaskEdge : MonoBehaviour
 {
-    public GameObject[] spritePrefabs; // Array of sprite prefabs
-    public Transform mask;              // The sprite mask object
-    public float edgeOffset = 0f;       // Adjust detection point
+    public Transform spriteA;      // Moving sprite
+    public Transform mask;         // The sprite mask object
+    public GameObject vfxB;        // Effect to play
+    public float edgeOffset = 0f;  // Adjust detection point
 
-    private int currentSpriteIndex = 0;
+    private bool triggered = false;
 
-    void Start()
+    void Update()
     {
-        // Start the coroutine to spawn and play the first sprite.
-        StartCoroutine(SpawnAndPlayCurrentSprite());
-    }
+        // Calculate the mask edge, considering the offset
+        float maskEdgeX = mask.position.x + edgeOffset;
 
-    System.Collections.IEnumerator SpawnAndPlayCurrentSprite()
-    {
-        while (true) // Loop through the sprites indefinitely
+        // Calculate sprite boundaries
+        SpriteRenderer spriteRenderer = spriteA.GetComponent<SpriteRenderer>();
+        if (spriteRenderer != null)
         {
-            // Instantiate the current sprite prefab
-            GameObject currentSprite = Instantiate(spritePrefabs[currentSpriteIndex], transform.position, Quaternion.identity);
-            Animator animator = currentSprite.GetComponent<Animator>();
+            float spriteWidth = spriteRenderer.bounds.size.x;
+            float spriteLeftEdgeX = spriteA.position.x - (spriteWidth / 2); // Left edge of the sprite
 
-            if (animator != null)
+            // Check if the left edge of the sprite is reaching or crossing the mask edge
+            if (!triggered && spriteLeftEdgeX <= maskEdgeX)
             {
-                // Wait until the current animation state is done
-                while (animator.GetCurrentAnimatorStateInfo(0).normalizedTime < 1.0f)
-                {
-                    yield return null; // Wait for the next frame
-                }
+                triggered = true;
+
+                // Spawn VFX at the mask edge position
+                Instantiate(vfxB, new Vector3(maskEdgeX, spriteA.position.y, spriteA.position.z), Quaternion.identity);
             }
-
-            // Destroy the current sprite after the animation is done
-            Destroy(currentSprite);
-
-            // Move to the next sprite and loop back if necessary
-            currentSpriteIndex = (currentSpriteIndex + 1) % spritePrefabs.Length;
+            // Reset triggered state when the sprite exits the mask area
+            else if (triggered && spriteLeftEdgeX > maskEdgeX)
+            {
+                triggered = false; // Reset so VFX can play again on next entry
+            }
         }
     }
 }
