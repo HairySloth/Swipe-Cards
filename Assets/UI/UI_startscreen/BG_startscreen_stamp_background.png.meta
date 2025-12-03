@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 2bc4c7281bcee454592162151616aca4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1913261763650208124
+    second: BG_startscreen_stamp_background_0
+  - first:
+      213: 2164027592076239120
+    second: BG_startscreen_stamp_background_1
+  - first:
+      213: -8480257543052689032
+    second: BG_startscreen_stamp_background_2
+  - first:
+      213: 4111411929352052195
+    second: BG_startscreen_stamp_background_3
+  - first:
+      213: 1497884162830213566
+    second: BG_startscreen_stamp_background_4
+  - first:
+      213: 3977938211956637986
+    second: BG_startscreen_stamp_background_5
+  - first:
+      213: -936130317901230621
+    second: BG_startscreen_stamp_background_6
+  - first:
+      213: -6895086757476576
+    second: BG_startscreen_stamp_background_7
+  - first:
+      213: -3772008425185524932
+    second: BG_startscreen_stamp_background_8
+  - first:
+      213: 3824812374907818065
+    second: BG_startscreen_stamp_background_9
+  - first:
+      213: -2284433964673365072
+    second: BG_startscreen_stamp_background_10
+  - first:
+      213: -6058385369483437402
+    second: BG_startscreen_stamp_background_11
+  - first:
+      213: 6426669843689015863
+    second: BG_startscreen_stamp_background_12
+  - first:
+      213: -3672160103807841023
+    second: BG_startscreen_stamp_background_13
+  - first:
+      213: 7434569852746973825
+    second: BG_startscreen_stamp_background_14
+  - first:
+      213: 1414335211327108836
+    second: BG_startscreen_stamp_background_15
+  - first:
+      213: 93687471532234614
+    second: BG_startscreen_stamp_background_16
+  - first:
+      213: 5732302777511807383
+    second: BG_startscreen_stamp_background_17
+  - first:
+      213: 8429314327306203714
+    second: BG_startscreen_stamp_background_18
+  - first:
+      213: -7410643370633763518
+    second: BG_startscreen_stamp_background_19
+  - first:
+      213: 7118971314727522514
+    second: BG_startscreen_stamp_background_20
+  - first:
+      213: -6668928928008350287
+    second: BG_startscreen_stamp_background_21
+  - first:
+      213: -8108701384926379702
+    second: BG_startscreen_stamp_background_22
+  - first:
+      213: -7427301297607168187
+    second: BG_startscreen_stamp_background_23
+  - first:
+      213: -4913854803028307024
+    second: BG_startscreen_stamp_background_24
+  - first:
+      213: -2569477054795945163
+    second: BG_startscreen_stamp_background_25
+  - first:
+      213: -5843071177865977874
+    second: BG_startscreen_stamp_background_26
+  - first:
+      213: -4334262115548439530
+    second: BG_startscreen_stamp_background_27
+  - first:
+      213: -5625042902095085361
+    second: BG_startscreen_stamp_background_28
+  - first:
+      213: 7201712365684404887
+    second: BG_startscreen_stamp_background_29
+  - first:
+      213: 4832635389166690011
+    second: BG_startscreen_stamp_background_30
+  - first:
+      213: 6205797049335346737
+    second: BG_startscreen_stamp_background_31
+  - first:
+      213: -7611062444953033347
+    second: BG_startscreen_stamp_background_32
+  - first:
+      213: 6616586221012808139
+    second: BG_startscreen_stamp_background_33
+  - first:
+      213: 3856507360025046740
+    second: BG_startscreen_stamp_background_34
+  - first:
+      213: 4773908759492611868
+    second: BG_startscreen_stamp_background_35
+  - first:
+      213: 5648314099040661795
+    second: BG_startscreen_stamp_background_36
+  - first:
+      213: 3810544022909123456
+    second: BG_startscreen_stamp_background_37
+  - first:
+      213: -436292463977183438
+    second: BG_startscreen_stamp_background_38
+  - first:
+      213: 3841342483335449591
+    second: BG_startscreen_stamp_background_39
+  - first:
+      213: 7956527745752335480
+    second: BG_startscreen_stamp_background_40
+  - first:
+      213: -1660947944966708575
+    second: BG_startscreen_stamp_background_41
+  - first:
+      213: -2546543409841457121
+    second: BG_startscreen_stamp_background_42
+  - first:
+      213: 4413341968896978082
+    second: BG_startscreen_stamp_background_43
+  - first:
+      213: 6143036788366794966
+    second: BG_startscreen_stamp_background_44
+  - first:
+      213: 7054493281824504251
+    second: BG_startscreen_stamp_background_45
+  - first:
+      213: 6329532922542233199
+    second: BG_startscreen_stamp_background_46
+  - first:
+      213: 8353223210280971547
+    second: BG_startscreen_stamp_background_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1523
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eba47109ab275e0800000000000000
+      internalID: -1913261763650208124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1434
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01129d521ab280e10800000000000000
+      internalID: 2164027592076239120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1523
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8718486e1b2105a80800000000000000
+      internalID: -8480257543052689032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1434
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed1556dd5bae0930800000000000000
+      internalID: 4111411929352052195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1523
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1ad20c5bd89c410800000000000000
+      internalID: 1497884162830213566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_5
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1434
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221c02e4ab9743730800000000000000
+      internalID: 3977938211956637986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1332
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed060a8f623203f0800000000000000
+      internalID: -936130317901230621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1243
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027002384f087eff0800000000000000
+      internalID: -6895086757476576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1332
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33490f725227abc0800000000000000
+      internalID: -3772008425185524932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_9
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1243
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15016ea1796741530800000000000000
+      internalID: 3824812374907818065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1332
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb8ece996f0c40e0800000000000000
+      internalID: -2284433964673365072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_11
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1243
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa148bea9a4ceba0800000000000000
+      internalID: -6058385369483437402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1120
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a8cc14c2e103950800000000000000
+      internalID: 6426669843689015863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1031
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d0c2e67ddd90dc0800000000000000
+      internalID: -3672160103807841023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1120
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182cfca14e5ec2760800000000000000
+      internalID: 7434569852746973825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1031
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6ba78916ab0a310800000000000000
+      internalID: 1414335211327108836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_16
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1120
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677559c4248dc4100800000000000000
+      internalID: 93687471532234614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_17
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1031
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799839e410b3d8f40800000000000000
+      internalID: 5732302777511807383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242723368b0faf470800000000000000
+      internalID: 8429314327306203714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 840
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24565402e1b182990800000000000000
+      internalID: -7410643370633763518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 929
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0978c51baabc260800000000000000
+      internalID: 7118971314727522514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 840
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b55cb539743373a0800000000000000
+      internalID: -6668928928008350287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_22
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 929
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41ceb95d0b187f80800000000000000
+      internalID: -8108701384926379702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_23
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 840
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fa35442dcece890800000000000000
+      internalID: -7427301297607168187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 726
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b396a3671b7ecbb0800000000000000
+      internalID: -4913854803028307024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 637
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bee5a7b32675cd0800000000000000
+      internalID: -2569477054795945163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_26
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 726
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef99fdb8bd39eea0800000000000000
+      internalID: -5843071177865977874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_27
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 637
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c5d4fd19b99d3c0800000000000000
+      internalID: -4334262115548439530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_28
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 679
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc04a468845dfe1b0800000000000000
+      internalID: -5625042902095085361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_29
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 590
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79238238d3f91f360800000000000000
+      internalID: 7201712365684404887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde13443848f01340800000000000000
+      internalID: 4832635389166690011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 446
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136fcc1698b6f1650800000000000000
+      internalID: 6205797049335346737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 535
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75224d0803106690800000000000000
+      internalID: -7611062444953033347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_33
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 446
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc17631ac16d2db50800000000000000
+      internalID: 6616586221012808139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_34
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 489
+        width: 138
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dee8f3e201158530800000000000000
+      internalID: 3856507360025046740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_35
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 399
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fcea739b4504240800000000000000
+      internalID: 4773908759492611868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 323
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321362d3fb7d26e40800000000000000
+      internalID: 5648314099040661795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 234
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b7c768995c1e430800000000000000
+      internalID: 3810544022909123456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_38
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 323
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237c57ac05af1f9f0800000000000000
+      internalID: -436292463977183438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_39
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 234
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb83d3e2a03f4530800000000000000
+      internalID: 3841342483335449591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_40
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 281
+        width: 138
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8748b1b44d34b6e60800000000000000
+      internalID: 7956527745752335480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_41
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 192
+        width: 138
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a228d5e4a023f8e0800000000000000
+      internalID: -1660947944966708575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18b94bc24cd8acd0800000000000000
+      internalID: -2546543409841457121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 43
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac6d6843275f3d30800000000000000
+      internalID: 4413341968896978082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_44
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 132
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d062cc6963704550800000000000000
+      internalID: 6143036788366794966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_45
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 43
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb97785734896e160800000000000000
+      internalID: 7054493281824504251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_46
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 90
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66154268a407d750800000000000000
+      internalID: 6329532922542233199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_startscreen_stamp_background_47
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d6852a04c9ce370800000000000000
+      internalID: 8353223210280971547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BG_startscreen_stamp_background_0: -1913261763650208124
+      BG_startscreen_stamp_background_1: 2164027592076239120
+      BG_startscreen_stamp_background_10: -2284433964673365072
+      BG_startscreen_stamp_background_11: -6058385369483437402
+      BG_startscreen_stamp_background_12: 6426669843689015863
+      BG_startscreen_stamp_background_13: -3672160103807841023
+      BG_startscreen_stamp_background_14: 7434569852746973825
+      BG_startscreen_stamp_background_15: 1414335211327108836
+      BG_startscreen_stamp_background_16: 93687471532234614
+      BG_startscreen_stamp_background_17: 5732302777511807383
+      BG_startscreen_stamp_background_18: 8429314327306203714
+      BG_startscreen_stamp_background_19: -7410643370633763518
+      BG_startscreen_stamp_background_2: -8480257543052689032
+      BG_startscreen_stamp_background_20: 7118971314727522514
+      BG_startscreen_stamp_background_21: -6668928928008350287
+      BG_startscreen_stamp_background_22: -8108701384926379702
+      BG_startscreen_stamp_background_23: -7427301297607168187
+      BG_startscreen_stamp_background_24: -4913854803028307024
+      BG_startscreen_stamp_background_25: -2569477054795945163
+      BG_startscreen_stamp_background_26: -5843071177865977874
+      BG_startscreen_stamp_background_27: -4334262115548439530
+      BG_startscreen_stamp_background_28: -5625042902095085361
+      BG_startscreen_stamp_background_29: 7201712365684404887
+      BG_startscreen_stamp_background_3: 4111411929352052195
+      BG_startscreen_stamp_background_30: 4832635389166690011
+      BG_startscreen_stamp_background_31: 6205797049335346737
+      BG_startscreen_stamp_background_32: -7611062444953033347
+      BG_startscreen_stamp_background_33: 6616586221012808139
+      BG_startscreen_stamp_background_34: 3856507360025046740
+      BG_startscreen_stamp_background_35: 4773908759492611868
+      BG_startscreen_stamp_background_36: 5648314099040661795
+      BG_startscreen_stamp_background_37: 3810544022909123456
+      BG_startscreen_stamp_background_38: -436292463977183438
+      BG_startscreen_stamp_background_39: 3841342483335449591
+      BG_startscreen_stamp_background_4: 1497884162830213566
+      BG_startscreen_stamp_background_40: 7956527745752335480
+      BG_startscreen_stamp_background_41: -1660947944966708575
+      BG_startscreen_stamp_background_42: -2546543409841457121
+      BG_startscreen_stamp_background_43: 4413341968896978082
+      BG_startscreen_stamp_background_44: 6143036788366794966
+      BG_startscreen_stamp_background_45: 7054493281824504251
+      BG_startscreen_stamp_background_46: 6329532922542233199
+      BG_startscreen_stamp_background_47: 8353223210280971547
+      BG_startscreen_stamp_background_5: 3977938211956637986
+      BG_startscreen_stamp_background_6: -936130317901230621
+      BG_startscreen_stamp_background_7: -6895086757476576
+      BG_startscreen_stamp_background_8: -3772008425185524932
+      BG_startscreen_stamp_background_9: 3824812374907818065
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
